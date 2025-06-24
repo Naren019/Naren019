@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Naren019
-- 👀 I’m interested in learning Web Development and DBMS
-- 🌱 I’m currently learning Engineering 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Naren Javalakar
+- 👀 I’m interested in learning Cybersecurity and ML
+- 🌱 I’m currently learning Computer Science Engineering 
+- 💞️ I’m looking to collaborate with Cybersecurity Professionals
 - 📫 How to reach me, you can reach me via email: narendwd19@gmail.com
 
 <!---
